@@ -1,0 +1,5 @@
+project: rnshah9/mayhem-minibsdiff
+target: minibsdiff
+
+cmds:
+  - cmd: /repo/minibsdiff gen /file @@ patch
